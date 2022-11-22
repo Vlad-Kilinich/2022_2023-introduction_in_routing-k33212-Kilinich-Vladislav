@@ -16,15 +16,17 @@ Date of finished: 3.12.2022
 -
 1. Устройства в сети:
 ![avatar](https://github.com/Vladkilinichh/routing/blob/main/lab1/pictures/Снимок.PNG?raw=true)
+
 2. Конфигурации устройств: Роутер R01
 ![avatar](https://github.com/Vladkilinichh/routing/blob/main/lab1/pictures/2.PNG?raw=true)
+
 3. Коммутатор первого уровня SW01.L3.01
 ![avatar](https://github.com/Vladkilinichh/routing/blob/main/lab1/pictures/3.PNG?raw=true)
+
 4. Коммутатор второго уровня SW02.L3.01
-
 ![avatar](https://github.com/Vladkilinichh/routing/blob/main/lab1/pictures/4.PNG?raw=true)
-5. Коммутатор второго уровня SW02.L3.02
 
+5. Коммутатор второго уровня SW02.L3.02
 ![avatar](https://github.com/Vladkilinichh/routing/blob/main/lab1/pictures/5.PNG?raw=true)
 ***
 Найстройка DHCP
