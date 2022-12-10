@@ -1,16 +1,15 @@
 # Отчёт по лабораторной работе №1 "Установка ContainerLab и развертывание тестовой сети связи"
 Цель: ознакомиться с инструментом ContainerLab и методами работы с ним, изучить работу VLAN, IP адресации и т.д.
 ***
-University: [ITMO University](https://itmo.ru/ru/)
-Faculty: [FICT](https://fict.itmo.ru)
-Course: [Introduction in routing](https://github.com/itmo-ict-faculty/introduction-in-routing)
-Year: 2022/2023
-Group: K33212
-Author: Kilinich Vladislav
-Lab: Lab1
-Date of create: 18.11.2022
-Date of finished: 3.12.2022
-
+University: [ITMO University](https://itmo.ru/ru/)  
+Faculty: [FICT](https://fict.itmo.ru)  
+Course: [Introduction in routing](https://github.com/itmo-ict-faculty/introduction-in-routing)  
+Year: 2022/2023  
+Group: K33212  
+Author: Kilinich Vladislav  
+Lab: Lab1  
+Date of create: 18.11.2022  
+Date of finished: 2.12.2022  
 ***
 Ход работы
 -
