@@ -21,16 +21,15 @@ Date of finished: 16.12.2022
 ![avatar](https://github.com/Vladkilinichh/2022_2023-introduction_in_routing-k33212-Kilinich-Vladislav/blob/main/lab3/images/2.PNG?raw=true)  
 4) Конфигурация настройки OSPF, MPLS RO1.HKL
 ![avatar](https://github.com/Vladkilinichh/2022_2023-introduction_in_routing-k33212-Kilinich-Vladislav/blob/main/lab3/images/4.PNG?raw=true)
-5) Конфигурация настройки OSPF, MPLS и EoMPLS RO1.SPB
-![avatar](https://github.com/Vladkilinichh/2022_2023-introduction_in_routing-k33212-Kilinich-Vladislav/blob/main/lab3/images/SPB.PNG?raw=true)
-6) Конфигурация настройки OSPF, MPLS RO1.MSK
-![avatar](https://github.com/Vladkilinichh/2022_2023-introduction_in_routing-k33212-Kilinich-Vladislav/blob/main/lab3/images/5.PNG?raw=true)
-7) Конфигурация настройки OSPF, MPLS RO1.LBN
-![avatar](https://github.com/Vladkilinichh/2022_2023-introduction_in_routing-k33212-Kilinich-Vladislav/blob/main/lab3/images/3.PNG?raw=true)
----
-8) Добавление интерфейса в SGI Prism и PC1
-![avatar](https://github.com/Vladkilinichh/2022_2023-introduction_in_routing-k33212-Kilinich-Vladislav/blob/main/lab3/images/8.PNG?raw=true)
-![avatar](https://github.com/Vladkilinichh/2022_2023-introduction_in_routing-k33212-Kilinich-Vladislav/blob/main/lab3/images/9.PNG?raw=true)
+5) Конфигурация настройки OSPF, MPLS и EoMPLS RO1.SPB  
+![avatar](https://github.com/Vladkilinichh/2022_2023-introduction_in_routing-k33212-Kilinich-Vladislav/blob/main/lab3/images/SPB.PNG?raw=true)  
+6) Конфигурация настройки OSPF, MPLS RO1.MSK  
+![avatar](https://github.com/Vladkilinichh/2022_2023-introduction_in_routing-k33212-Kilinich-Vladislav/blob/main/lab3/images/5.PNG?raw=true)  
+7) Конфигурация настройки OSPF, MPLS RO1.LBN  
+![avatar](https://github.com/Vladkilinichh/2022_2023-introduction_in_routing-k33212-Kilinich-Vladislav/blob/main/lab3/images/3.PNG?raw=true)  
+8) Добавление интерфейса в SGI Prism и PC1  
+![avatar](https://github.com/Vladkilinichh/2022_2023-introduction_in_routing-k33212-Kilinich-Vladislav/blob/main/lab3/images/8.PNG?raw=true)  
+![avatar](https://github.com/Vladkilinichh/2022_2023-introduction_in_routing-k33212-Kilinich-Vladislav/blob/main/lab3/images/9.PNG?raw=true)  
 ---
 # Таблицы MPLS маршрутов на всех роутерах
 ---
