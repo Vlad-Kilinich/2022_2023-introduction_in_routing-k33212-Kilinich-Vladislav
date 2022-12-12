@@ -46,7 +46,7 @@ Date of finished: 16.12.2022
 6. RO1.LBN
 ![avatar](https://github.com/Vladkilinichh/2022_2023-introduction_in_routing-k33212-Kilinich-Vladislav/blob/main/lab3/images/LBN_MPLS.PNG?raw=true)
 ---
-# Созданный тунель EoMPLS были связал порты eth2 и eth4 на роутерах R01.NY и R01.SPB соответсвенно.
+# Созданный тунель EoMPLS связал порты eth2 на R01.NY и eth4 на R01.SPB.
 Для проверки связанности были пропингованы компьютеры:
 ![avatar](https://github.com/Vladkilinichh/2022_2023-introduction_in_routing-k33212-Kilinich-Vladislav/blob/main/lab3/images/10.PNG?raw=true)
 ![avatar](https://github.com/Vladkilinichh/2022_2023-introduction_in_routing-k33212-Kilinich-Vladislav/blob/main/lab3/images/11.PNG?raw=true)
