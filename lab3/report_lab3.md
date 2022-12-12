@@ -15,10 +15,10 @@ Date of finished: 16.12.2022
 1) Развертывание контейнера:
 ![avatar](https://github.com/Vladkilinichh/2022_2023-introduction_in_routing-k33212-Kilinich-Vladislav/blob/main/lab3/images/Снимок.PNG?raw=true)
 # Найстройка всех устройств
-2) Конфигурация настройки OSPF, MPLS и EoMPLS RO1.NY
-![avatar](https://github.com/Vladkilinichh/2022_2023-introduction_in_routing-k33212-Kilinich-Vladislav/blob/main/lab3/images/1.PNG?raw=true)
-3) Конфигурация настройки OSPF, MPLS RO1.LND
-![avatar](https://github.com/Vladkilinichh/2022_2023-introduction_in_routing-k33212-Kilinich-Vladislav/blob/main/lab3/images/2.PNG?raw=true)
+2) Конфигурация настройки OSPF, MPLS и EoMPLS RO1.NY  
+![avatar](https://github.com/Vladkilinichh/2022_2023-introduction_in_routing-k33212-Kilinich-Vladislav/blob/main/lab3/images/1.PNG?raw=true)  
+3) Конфигурация настройки OSPF, MPLS RO1.LND  
+![avatar](https://github.com/Vladkilinichh/2022_2023-introduction_in_routing-k33212-Kilinich-Vladislav/blob/main/lab3/images/2.PNG?raw=true)  
 4) Конфигурация настройки OSPF, MPLS RO1.HKL
 ![avatar](https://github.com/Vladkilinichh/2022_2023-introduction_in_routing-k33212-Kilinich-Vladislav/blob/main/lab3/images/4.PNG?raw=true)
 5) Конфигурация настройки OSPF, MPLS и EoMPLS RO1.SPB
