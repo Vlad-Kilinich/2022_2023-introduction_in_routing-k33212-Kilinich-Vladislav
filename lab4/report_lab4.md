@@ -15,6 +15,8 @@ Date of finished: 10.01.2023
 1) Развертывание контейнера:  
 ![avatar](https://github.com/Vladkilinichh/2022_2023-introduction_in_routing-k33212-Kilinich-Vladislav/blob/main/lab4/pictures/Снимок.PNG?raw=true)  
 # Часть 1 Найстройка всех устройств  
+Схема:  
+![avatar](https://github.com/Vladkilinichh/2022_2023-introduction_in_routing-k33212-Kilinich-Vladislav/blob/main/lab4/Диаграмма%20ЧАСТЬ%201%20с%20VRF.png?raw=true)  
 * На всех роутерах были настроены OSPF и MPLS, iBGP, в том числе с route reflector кластером для 3 роутеров HKI, LBN, LND  
 * На роутерах SPB, NY, SVL были настроены VRF, RD и RT.  
 2) Конфигурация настройки OSPF, MPLS, iBGP и VRF на RO1.NY  
@@ -40,6 +42,8 @@ Date of finished: 10.01.2023
 ---  
 # Вторая часть  
 ---  
+Схема:  
+![avatar](https://github.com/Vladkilinichh/2022_2023-introduction_in_routing-k33212-Kilinich-Vladislav/blob/main/lab4/Диаграмма%20ЧАСТЬ%202%20с%20VPLS.png?raw=true)  
 Был разобран VRF на SPB, NY, SVL. Далее на этих 3 роутерах был настроен VPLS. 
 Для начала удалили интерфейсы для связи с компьютерами, а также обновили конфигурацию роутеров. Также на компьютерах была настроена IP-адресация в одной сети (172.10.10.*/24).  
 1. Обновленная конфигурация RO1.NY  
@@ -61,6 +65,9 @@ Date of finished: 10.01.2023
 Пример ip neighbor print на RO1.NY  
 ![avatar](https://github.com/Vladkilinichh/2022_2023-introduction_in_routing-k33212-Kilinich-Vladislav/blob/main/lab4/pictures/18%20IP%20nei%20p%20NY.PNG?raw=true)  
 ---
+# Вывод:  
+---  
+В ходе лабораторной работы была сделана MPLS сеть, в которой были настроены OSPF и BGP (помимо этого также были настроены VRF (1 часть) и VPLS (2 часть)). Работоспособность сетей подтвердили с помощью пингов.    
 
 
 
